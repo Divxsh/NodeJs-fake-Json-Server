@@ -1,0 +1,19 @@
+{
+  "name": "Fake Json Server",
+  "version": "1.0.0",
+  "description": "A Server for Fake Api Request",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.0"
+  }
+}

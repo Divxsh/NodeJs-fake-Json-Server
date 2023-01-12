@@ -1,0 +1,53 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Card 2",
+      "link": "https://example.com/video2",
+      "bucket": "vlogs"
+    },
+    {
+      "id": 2,
+      "name": "Card 2",
+      "link": "https://example.com/video2",
+      "bucket": "education"
+    },
+    {
+      "name": "Card 3",
+      "link": "https://example.com/video2",
+      "bucket": "education",
+      "id": 3
+    },
+    {
+      "name": "Card 3",
+      "link": "https://example.com/video2",
+      "bucket": "vlogs",
+      "id": 4
+    },
+    {
+      "name": "Card 3",
+      "link": "https://example.com/video2",
+      "bucket": "vlogs",
+      "id": 5
+    }
+  ],
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Entertainment"
+    },
+    {
+      "id": 2,
+      "name": "Education"
+    },
+    {
+      "id": 3,
+      "name": "Tips & Tricks"
+    },
+    {
+      "id": 4,
+      "name": "Vlogs"
+    }
+  ],
+  "history": []
+}
