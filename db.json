@@ -49,5 +49,24 @@
       "name": "Vlogs"
     }
   ],
-  "history": []
+  "history": [],
+
+  "logos":[
+    {
+      "id": "divasheko",
+      "link":"https://cdn.discordapp.com/attachments/1056113027415547925/1067335435023548447/image.png"
+    },
+    {
+      "id": "shubhameko",
+      "link":"https://cdn.discordapp.com/attachments/1056113027415547925/1067335459262443550/image.png"
+    },
+    {
+      "id": "lokesheko",
+      "link":"https://cdn.discordapp.com/attachments/1056113027415547925/1067335489755033630/image.png"
+    },
+    {
+      "id": "arisheko",
+      "link":"https://cdn.discordapp.com/attachments/1056113027415547925/1067335557379788860/image.png"
+    }
+  ]
 }
